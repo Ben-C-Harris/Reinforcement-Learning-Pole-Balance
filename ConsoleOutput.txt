@@ -1,0 +1,337 @@
+Run: 1, exploration: 0.9416228069143757, score: 22
+Scores: (min: 22, avg: 22, max: 22)
+
+Run: 2, exploration: 0.697046600835495, score: 61
+Scores: (min: 22, avg: 41.5, max: 61)
+
+Run: 3, exploration: 0.6465587967553006, score: 16
+Scores: (min: 16, avg: 33, max: 61)
+
+Run: 4, exploration: 0.5732736268885887, score: 25
+Scores: (min: 16, avg: 31, max: 61)
+
+Run: 5, exploration: 0.547986285490042, score: 10
+Scores: (min: 10, avg: 26.8, max: 61)
+
+Run: 6, exploration: 0.5159963842937159, score: 13
+Scores: (min: 10, avg: 24.5, max: 61)
+
+Run: 7, exploration: 0.4907693883854626, score: 11
+Scores: (min: 10, avg: 22.571428571428573, max: 61)
+
+Run: 8, exploration: 0.46211964903917074, score: 13
+Scores: (min: 10, avg: 21.375, max: 61)
+
+Run: 9, exploration: 0.43080185560799106, score: 15
+Scores: (min: 10, avg: 20.666666666666668, max: 61)
+
+Run: 10, exploration: 0.4036245882390106, score: 14
+Scores: (min: 10, avg: 20, max: 61)
+
+Run: 11, exploration: 0.3743896431025813, score: 16
+Scores: (min: 10, avg: 19.636363636363637, max: 61)
+
+Run: 12, exploration: 0.3403786882983606, score: 20
+Scores: (min: 10, avg: 19.666666666666668, max: 61)
+
+Run: 13, exploration: 0.322118930542046, score: 12
+Scores: (min: 10, avg: 19.076923076923077, max: 61)
+
+Run: 14, exploration: 0.3033145315372582, score: 13
+Scores: (min: 10, avg: 18.642857142857142, max: 61)
+
+Run: 15, exploration: 0.27853872940185365, score: 18
+Scores: (min: 10, avg: 18.6, max: 61)
+
+Run: 16, exploration: 0.23725980767521673, score: 33
+Scores: (min: 10, avg: 19.5, max: 61)
+
+Run: 17, exploration: 0.22793384675362674, score: 9
+Scores: (min: 9, avg: 18.88235294117647, max: 61)
+
+Run: 18, exploration: 0.2031139149609751, score: 24
+Scores: (min: 9, avg: 19.166666666666668, max: 61)
+
+Run: 19, exploration: 0.18840216465300522, score: 16
+Scores: (min: 9, avg: 19, max: 61)
+
+Run: 20, exploration: 0.17651675623376062, score: 14
+Scores: (min: 9, avg: 18.75, max: 61)
+
+Run: 21, exploration: 0.14885748713096328, score: 35
+Scores: (min: 9, avg: 19.523809523809526, max: 61)
+
+Run: 22, exploration: 0.13946676683816583, score: 14
+Scores: (min: 9, avg: 19.272727272727273, max: 61)
+
+Run: 23, exploration: 0.11939502647758558, score: 32
+Scores: (min: 9, avg: 19.82608695652174, max: 61)
+
+Run: 24, exploration: 0.11074712159185099, score: 16
+Scores: (min: 9, avg: 19.666666666666668, max: 61)
+
+Run: 25, exploration: 0.08157186144027828, score: 62
+Scores: (min: 9, avg: 21.36, max: 62)
+
+Run: 26, exploration: 0.07836551983717477, score: 9
+Scores: (min: 9, avg: 20.884615384615383, max: 62)
+
+Run: 27, exploration: 0.07528520976374668, score: 9
+Scores: (min: 9, avg: 20.444444444444443, max: 62)
+
+Run: 28, exploration: 0.06844601986126451, score: 20
+Scores: (min: 9, avg: 20.428571428571427, max: 62)
+
+Run: 29, exploration: 0.06542683706543727, score: 10
+Scores: (min: 9, avg: 20.06896551724138, max: 62)
+
+Run: 30, exploration: 0.056292216338080694, score: 31
+Scores: (min: 9, avg: 20.433333333333334, max: 62)
+
+Run: 31, exploration: 0.044924885780066794, score: 46
+Scores: (min: 9, avg: 21.258064516129032, max: 62)
+
+Run: 32, exploration: 0.037133343065552986, score: 39
+Scores: (min: 9, avg: 21.8125, max: 62)
+
+Run: 33, exploration: 0.03100237440513238, score: 37
+Scores: (min: 9, avg: 22.272727272727273, max: 62)
+
+Run: 34, exploration: 0.026807992814067, score: 30
+Scores: (min: 9, avg: 22.5, max: 62)
+
+Run: 35, exploration: 0.021610099696926857, score: 44
+Scores: (min: 9, avg: 23.114285714285714, max: 62)
+
+Run: 36, exploration: 0.01575835418494799, score: 64
+Scores: (min: 9, avg: 24.25, max: 64)
+
+Run: 37, exploration: 0.01, score: 105
+Scores: (min: 9, avg: 26.43243243243243, max: 105)
+
+Run: 38, exploration: 0.01, score: 80
+Scores: (min: 9, avg: 27.842105263157894, max: 105)
+
+Run: 39, exploration: 0.01, score: 59
+Scores: (min: 9, avg: 28.641025641025642, max: 105)
+
+Run: 40, exploration: 0.01, score: 24
+Scores: (min: 9, avg: 28.525, max: 105)
+
+Run: 41, exploration: 0.01, score: 142
+Scores: (min: 9, avg: 31.29268292682927, max: 142)
+
+Run: 42, exploration: 0.01, score: 51
+Scores: (min: 9, avg: 31.761904761904763, max: 142)
+
+Run: 43, exploration: 0.01, score: 66
+Scores: (min: 9, avg: 32.55813953488372, max: 142)
+
+Run: 44, exploration: 0.01, score: 138
+Scores: (min: 9, avg: 34.95454545454545, max: 142)
+
+Run: 45, exploration: 0.01, score: 85
+Scores: (min: 9, avg: 36.06666666666667, max: 142)
+
+Run: 46, exploration: 0.01, score: 74
+Scores: (min: 9, avg: 36.891304347826086, max: 142)
+
+Run: 47, exploration: 0.01, score: 151
+Scores: (min: 9, avg: 39.319148936170215, max: 151)
+
+Run: 48, exploration: 0.01, score: 209
+Scores: (min: 9, avg: 42.854166666666664, max: 209)
+
+Run: 49, exploration: 0.01, score: 140
+Scores: (min: 9, avg: 44.83673469387755, max: 209)
+
+Run: 50, exploration: 0.01, score: 340
+Scores: (min: 9, avg: 50.74, max: 340)
+
+Run: 51, exploration: 0.01, score: 279
+Scores: (min: 9, avg: 55.21568627450981, max: 340)
+
+Run: 52, exploration: 0.01, score: 266
+Scores: (min: 9, avg: 59.26923076923077, max: 340)
+
+Run: 53, exploration: 0.01, score: 330
+Scores: (min: 9, avg: 64.37735849056604, max: 340)
+
+Run: 54, exploration: 0.01, score: 246
+Scores: (min: 9, avg: 67.74074074074075, max: 340)
+
+Run: 55, exploration: 0.01, score: 398
+Scores: (min: 9, avg: 73.74545454545455, max: 398)
+
+Run: 56, exploration: 0.01, score: 403
+Scores: (min: 9, avg: 79.625, max: 403)
+
+Run: 57, exploration: 0.01, score: 404
+Scores: (min: 9, avg: 85.3157894736842, max: 404)
+
+Run: 58, exploration: 0.01, score: 500
+Scores: (min: 9, avg: 92.46551724137932, max: 500)
+
+Run: 59, exploration: 0.01, score: 219
+Scores: (min: 9, avg: 94.61016949152543, max: 500)
+
+Run: 60, exploration: 0.01, score: 292
+Scores: (min: 9, avg: 97.9, max: 500)
+
+Run: 61, exploration: 0.01, score: 340
+Scores: (min: 9, avg: 101.8688524590164, max: 500)
+
+Run: 62, exploration: 0.01, score: 228
+Scores: (min: 9, avg: 103.90322580645162, max: 500)
+
+Run: 63, exploration: 0.01, score: 209
+Scores: (min: 9, avg: 105.57142857142857, max: 500)
+
+Run: 64, exploration: 0.01, score: 222
+Scores: (min: 9, avg: 107.390625, max: 500)
+
+Run: 65, exploration: 0.01, score: 188
+Scores: (min: 9, avg: 108.63076923076923, max: 500)
+
+Run: 66, exploration: 0.01, score: 236
+Scores: (min: 9, avg: 110.56060606060606, max: 500)
+
+Run: 67, exploration: 0.01, score: 192
+Scores: (min: 9, avg: 111.77611940298507, max: 500)
+
+Run: 68, exploration: 0.01, score: 341
+Scores: (min: 9, avg: 115.1470588235294, max: 500)
+
+Run: 69, exploration: 0.01, score: 341
+Scores: (min: 9, avg: 118.42028985507247, max: 500)
+
+Run: 70, exploration: 0.01, score: 266
+Scores: (min: 9, avg: 120.52857142857142, max: 500)
+
+Run: 71, exploration: 0.01, score: 326
+Scores: (min: 9, avg: 123.4225352112676, max: 500)
+
+Run: 72, exploration: 0.01, score: 374
+Scores: (min: 9, avg: 126.90277777777777, max: 500)
+
+Run: 73, exploration: 0.01, score: 342
+Scores: (min: 9, avg: 129.84931506849315, max: 500)
+
+Run: 74, exploration: 0.01, score: 275
+Scores: (min: 9, avg: 131.8108108108108, max: 500)
+
+Run: 75, exploration: 0.01, score: 349
+Scores: (min: 9, avg: 134.70666666666668, max: 500)
+
+Run: 76, exploration: 0.01, score: 206
+Scores: (min: 9, avg: 135.64473684210526, max: 500)
+
+Run: 77, exploration: 0.01, score: 289
+Scores: (min: 9, avg: 137.63636363636363, max: 500)
+
+Run: 78, exploration: 0.01, score: 236
+Scores: (min: 9, avg: 138.89743589743588, max: 500)
+
+Run: 79, exploration: 0.01, score: 278
+Scores: (min: 9, avg: 140.65822784810126, max: 500)
+
+Run: 80, exploration: 0.01, score: 234
+Scores: (min: 9, avg: 141.825, max: 500)
+
+Run: 81, exploration: 0.01, score: 222
+Scores: (min: 9, avg: 142.8148148148148, max: 500)
+
+Run: 82, exploration: 0.01, score: 227
+Scores: (min: 9, avg: 143.84146341463415, max: 500)
+
+Run: 83, exploration: 0.01, score: 207
+Scores: (min: 9, avg: 144.6024096385542, max: 500)
+
+Run: 84, exploration: 0.01, score: 253
+Scores: (min: 9, avg: 145.89285714285714, max: 500)
+
+Run: 85, exploration: 0.01, score: 338
+Scores: (min: 9, avg: 148.1529411764706, max: 500)
+
+Run: 86, exploration: 0.01, score: 276
+Scores: (min: 9, avg: 149.63953488372093, max: 500)
+
+Run: 87, exploration: 0.01, score: 298
+Scores: (min: 9, avg: 151.3448275862069, max: 500)
+
+Run: 88, exploration: 0.01, score: 198
+Scores: (min: 9, avg: 151.875, max: 500)
+
+Run: 89, exploration: 0.01, score: 239
+Scores: (min: 9, avg: 152.85393258426967, max: 500)
+
+Run: 90, exploration: 0.01, score: 184
+Scores: (min: 9, avg: 153.2, max: 500)
+
+Run: 91, exploration: 0.01, score: 272
+Scores: (min: 9, avg: 154.5054945054945, max: 500)
+
+Run: 92, exploration: 0.01, score: 293
+Scores: (min: 9, avg: 156.0108695652174, max: 500)
+
+Run: 93, exploration: 0.01, score: 260
+Scores: (min: 9, avg: 157.1290322580645, max: 500)
+
+Run: 94, exploration: 0.01, score: 236
+Scores: (min: 9, avg: 157.96808510638297, max: 500)
+
+Run: 95, exploration: 0.01, score: 195
+Scores: (min: 9, avg: 158.3578947368421, max: 500)
+
+Run: 96, exploration: 0.01, score: 233
+Scores: (min: 9, avg: 159.13541666666666, max: 500)
+
+Run: 97, exploration: 0.01, score: 178
+Scores: (min: 9, avg: 159.3298969072165, max: 500)
+
+Run: 98, exploration: 0.01, score: 272
+Scores: (min: 9, avg: 160.4795918367347, max: 500)
+
+Run: 99, exploration: 0.01, score: 275
+Scores: (min: 9, avg: 161.63636363636363, max: 500)
+
+Run: 100, exploration: 0.01, score: 277
+Scores: (min: 9, avg: 162.79, max: 500)
+
+Run: 101, exploration: 0.01, score: 217
+Scores: (min: 9, avg: 164.74, max: 500)
+
+Run: 102, exploration: 0.01, score: 318
+Scores: (min: 9, avg: 167.31, max: 500)
+
+Run: 103, exploration: 0.01, score: 500
+Scores: (min: 9, avg: 172.15, max: 500)
+
+Run: 104, exploration: 0.01, score: 226
+Scores: (min: 9, avg: 174.16, max: 500)
+
+Run: 105, exploration: 0.01, score: 223
+Scores: (min: 9, avg: 176.29, max: 500)
+
+Run: 106, exploration: 0.01, score: 287
+Scores: (min: 9, avg: 179.03, max: 500)
+
+Run: 107, exploration: 0.01, score: 399
+Scores: (min: 9, avg: 182.91, max: 500)
+
+Run: 108, exploration: 0.01, score: 250
+Scores: (min: 9, avg: 185.28, max: 500)
+
+Run: 109, exploration: 0.01, score: 341
+Scores: (min: 9, avg: 188.54, max: 500)
+
+Run: 110, exploration: 0.01, score: 253
+Scores: (min: 9, avg: 190.93, max: 500)
+
+Run: 111, exploration: 0.01, score: 270
+Scores: (min: 9, avg: 193.47, max: 500)
+
+Run: 112, exploration: 0.01, score: 224
+Scores: (min: 9, avg: 195.51, max: 500)
+
+Solved in 12 runs, 112 total runs.
