@@ -12,10 +12,4 @@ GIF of final iteration to show end point
 
 
 
-<p align="center">
-  <img RunningModelExample.gif/>
-</p>
-
-<p align="center">
-  <img /RunningModelExample.gif>
-</p>
+![image alt ><](RunningModelExample.gif?raw=true "Title")
