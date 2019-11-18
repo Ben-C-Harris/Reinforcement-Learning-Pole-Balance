@@ -13,3 +13,5 @@ GIF of final iteration to show end point
 
 
 ![image alt ><](RunningModelExample.gif?raw=true "Title")
+
+![Alt text ><](RunningModelExample.gif?raw=true "Title")
