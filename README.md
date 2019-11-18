@@ -10,8 +10,4 @@ GIF of first five iterations to show starting point
 GIF of final iteration to show end point
 ![Alt text](RunningModelExample.gif?raw=true "Title")
 
-
-
-![image alt ><](RunningModelExample.gif?raw=true "Title")
-
-![Alt text ><](RunningModelExample.gif?raw=true "Title")
+->![Alt text](RunningModelExample.gif?raw=true "Title")<-
