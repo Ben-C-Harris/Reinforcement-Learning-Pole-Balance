@@ -29,14 +29,14 @@ The OpenAI Cart Pole Challenge is to deliver a model that as quickly as possible
 
 Below is a scores output of my Deep Q Neural Network, you can see that within 12 Runs, it delivers a 100 run average of over 195. This places it 5th in the challenge leaderboard.
 
-<p Photo of scores through life of model till solved </p>
+Photo of scores through life of model till solved
 <p align="center"><img src="outputs/scores.png" /></p>
 
 Below is the first 5 learning iterations, you can see where it fails on pole angle
-<p GIF of first five iterations to show starting point <p>
+GIF of first five iterations to show starting point
 <p align="center"><img src="GIFs/FirstFiveIterations.gif" /></p>
 
 Below is one of the final iterations, you can see the substantial improvement from the above.
 
-<p GIF of final iteration to show end point<p>
+GIF of final iteration to show end point
 <p align="center"><img src="GIFs/RunningModelExample.gif" /></p>
