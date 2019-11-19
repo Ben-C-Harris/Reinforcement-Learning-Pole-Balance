@@ -57,4 +57,21 @@ The model is simple to run. Ensure you have the above packages installed in your
     kerasPoleBalance.py
     loggingFunctionality.py
 
+Both files contain some user set parameters. Within kerasPoleBalance.py, you have the option to:
+
+     kerasPoleBalance.py:
+     
+        DEBUG - Prints to console each step of the model process in the Gym Environment.
+        LOAD_PRIOR_MODEL - To load up a previously saved .h5 Keras model. Be aware if using this you may wish to change the learning rate and exploration decay.
+        PRIOR_MODEL_NAME - If above is True, then which file will it load.
+        EXPORT_MODEL - Will save serialized JSON of model weights, .h5 of model weights, and the full Keras model in .h5.
+        SAVE_GIFS - Saves GIFs for later
+    
+    loggingFunctionality.py
+    
+        AVERAGE_SCORE_TO_SOLVE - This is the average score required for X consecutive runs. Where X is as below.
+        CONSECUTIVE_RUNS_TO_SOLVE - The number of consecutive runs the average must be mainted for.
+    
+      
+
 Run kerasPoleBalance.py and you're done. Any outputs requested will be generated within that directory.
