@@ -32,11 +32,8 @@ Below is a scores output of my Deep Q Neural Network, you can see that within 12
 Photo of scores through life of model till solved
 <p align="center"><img src="outputs/scores.png" /></p>
 
-Below is the first 5 learning iterations, you can see where it fails on pole angle
-GIF of first five iterations to show starting point
+Below is the first 5 learning iterations, you can see where it fails on pole angle. (If the GIF stops, refresh the page)
 <p align="center"><img src="GIFs/FirstFiveIterations.gif" /></p>
 
-Below is one of the final iterations, you can see the substantial improvement from the above.
-
-GIF of final iteration to show end point
+Below is one of the final iterations, you can see the substantial improvement from the above. (If the GIF stops, refresh the page)
 <p align="center"><img src="GIFs/RunningModelExample.gif" /></p>
