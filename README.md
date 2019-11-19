@@ -24,7 +24,8 @@ Keras with a TensorFlow backend has been applied to the problem with multiple it
 
 Ultimately, the best solution found has been through applying a Sequention model as outlined below. The ReLU activation function is applied to hidden layers, while a linear activation function is applied to the output layer.
 
-**PICTURE HERE**
+<p align="center"><img src="/modelExport/modelSpec.png" /></p>
+
 
 
 Photo of scores through life of model till solved
