@@ -3,6 +3,9 @@
 
 # Top 5 in leaderboard - https://github.com/openai/gym/wiki/Leaderboard#cartpole-v0
 
+# Summary:
+OpenAI Gym's Cartpole problem is an environment where the goal is to train an agent to balance a pole on a moving cart with limitations as below.
+
 Keras Machine Learning
 
     Observation: 
