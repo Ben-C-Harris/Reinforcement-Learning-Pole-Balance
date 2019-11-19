@@ -57,7 +57,7 @@ The model is simple to run. Ensure you have the above packages installed in your
     kerasPoleBalance.py
     loggingFunctionality.py
 
-Both files contain some user set parameters. Within kerasPoleBalance.py, you have the option to:
+Both files contain some user set parameters:
 
      kerasPoleBalance.py:
      
@@ -70,8 +70,6 @@ Both files contain some user set parameters. Within kerasPoleBalance.py, you hav
     loggingFunctionality.py
     
         AVERAGE_SCORE_TO_SOLVE - This is the average score required for X consecutive runs. Where X is as below.
-        CONSECUTIVE_RUNS_TO_SOLVE - The number of consecutive runs the average must be mainted for.
-    
-      
+        CONSECUTIVE_RUNS_TO_SOLVE - The number of consecutive runs the average must be mainted for. 
 
-Run kerasPoleBalance.py and you're done. Any outputs requested will be generated within that directory.
+Finally, run kerasPoleBalance.py and you're done. Any outputs requested will be generated within that directory.
