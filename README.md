@@ -2,7 +2,6 @@
 
 # Top 5 in leaderboard - https://github.com/openai/gym/wiki/Leaderboard#cartpole-v0
 
-# Summary:
 OpenAI Gym's Cartpole problem is an environment where the goal is to train an agent to balance a pole on a moving cart with limitations as below:
 
     Observation: 
@@ -27,7 +26,7 @@ Ultimately, the best solution found has been through applying a Sequential model
 
 The OpenAI Cart Pole Challenge is to deliver a model that as quickly as possible delivers an average score of over 195. This requires an aggressive initial learning stage and as such, in the real world/commercial environment it would be better to have a longer learning period which would likely deliver better overall long term performance.
 
-Below is a scores output of my Deep Q Neural Network, you can see that within 12 Runs, it delivers a 100 run average of over 195. This places it 5th in the challenge leaderboard.
+Below is a scores output of my Deep Q Neural Network, you can see that within 12 Runs, it delivers a 100 run average of over 195. **This places it 5th in the challenge leaderboard.**
 
 Photo of scores through life of model till solved
 <p align="center"><img src="outputs/scores.png" /></p>
