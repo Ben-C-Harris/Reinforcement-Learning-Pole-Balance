@@ -1,7 +1,7 @@
 # Deep Q Neural Network to solve OpenAI Cart Pole challenge
 
 
-# Top 5 in leaderboard - https://github.com/openai/gym/wiki/Leaderboard
+# Top 5 in leaderboard - https://github.com/openai/gym/wiki/Leaderboard#cartpole-v0
 
 Keras Machine Learning
 
