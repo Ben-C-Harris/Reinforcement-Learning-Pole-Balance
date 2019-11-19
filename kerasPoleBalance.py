@@ -7,7 +7,7 @@ from keras.layers import Dense
 from keras.optimizers import Adam
 from PIL import Image
 
-from scores.loggingFunctionality import LoggerOutputs # Import ScoreLogger Class from /scores/score_logger
+from loggingFunctionality import LoggerOutputs # Import ScoreLogger Class from /scores/score_logger
 
 # Define which openAI Gym environment to use
 ENV_NAME = "CartPole-v1"
@@ -16,7 +16,7 @@ ENV_NAME = "CartPole-v1"
 DEBUG = False
 LOAD_PRIOR_MODEL = False
 PRIOR_MODEL_NAME = "kerasModelWeights.h5"
-EXPORT_MODEL = True
+EXPORT_MODEL = False
 SAVE_GIFS = False
 
 # Define RL variables

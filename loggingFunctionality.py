@@ -10,10 +10,10 @@ import sys
 import seaborn as sns
 sns.set()
 
-SCORES_CSV_PATH = "./scores/scores.csv"
-SCORES_PNG_PATH = "./scores/scores.png"
-SOLVED_CSV_PATH = "./scores/solved.csv"
-SOLVED_PNG_PATH = "./scores/solved.png"
+SCORES_CSV_PATH = ".scores.csv"
+SCORES_PNG_PATH = ".scores.png"
+SOLVED_CSV_PATH = ".solved.csv"
+SOLVED_PNG_PATH = ".solved.png"
 
 # Requirements for Solution (ref: https://github.com/openai/gym/wiki/CartPole-v0)
 AVERAGE_SCORE_TO_SOLVE = 195
