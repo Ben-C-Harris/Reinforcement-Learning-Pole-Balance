@@ -1,4 +1,7 @@
-# Deep Q Neural Network to solve OpenAI Cart Pole balance challenge
+# Deep Q Neural Network to solve OpenAI Cart Pole challenge
+
+# Top 5 in leaderboard!
+
 Keras Machine Learning
 
     Observation: 
