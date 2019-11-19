@@ -3,7 +3,7 @@ Keras Machine Learning
 
 
 Photo of scores through life of model till solved
-<p align="center"><img src="scores.png" /></p>
+<p align="center"><img src="outputs/scores.png" /></p>
 
 GIF of first five iterations to show starting point
 <p align="center"><img src="GIFs/FirstFiveIterations.gif" /></p>
