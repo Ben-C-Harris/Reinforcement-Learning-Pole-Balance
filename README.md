@@ -52,7 +52,7 @@ Below is one of the final iterations, you can see the substantial improvement fr
     PIL   
 
 # How to run
-The model is simple to run. Ensure you have the above packages installed in your environment and download:
+The model is simple to run. Ensure you have the above packages installed in your environment and download/fork:
 
     kerasPoleBalance.py
     loggingFunctionality.py
